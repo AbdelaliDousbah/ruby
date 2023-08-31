@@ -4,7 +4,7 @@ These exercises are from [The Odin Project](https://www.theodinproject.com/cours
 
 ## Basic section
 
-[caesar_cipher](https://www.theodinproject.com/courses/ruby-programming/lessons/caesar-cipher)\
-[substrings](https://www.theodinproject.com/courses/ruby-programming/lessons/sub-strings)\
-[stock_picker](https://www.theodinproject.com/courses/ruby-programming/lessons/stock-picker)\
-[bubble_sort](https://www.theodinproject.com/courses/ruby-programming/lessons/bubble-sort)
+[caesar_cipher](https://www.theodinproject.com/lessons/ruby-caesar-cipher)\
+[substrings](https://www.theodinproject.com/lessons/ruby-sub-strings)\
+[stock_picker](https://www.theodinproject.com/lessons/ruby-stock-picker)\
+[bubble_sort](https://www.theodinproject.com/lessons/ruby-bubble-sort)
