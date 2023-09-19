@@ -8,3 +8,4 @@ These exercises are from [The Odin Project](https://www.theodinproject.com/cours
 [substrings](https://www.theodinproject.com/lessons/ruby-sub-strings)\
 [stock_picker](https://www.theodinproject.com/lessons/ruby-stock-picker)\
 [bubble_sort](https://www.theodinproject.com/lessons/ruby-bubble-sort)
+[Tic_Tac_Toe](https://www.theodinproject.com/lessons/ruby-tic-tac-toe)
